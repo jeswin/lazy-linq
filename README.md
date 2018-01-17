@@ -1,3 +1,10 @@
+IMPORTANT
+=========
+This is a temporary fork of https://github.com/anstinus/lazy-linq with some TypeScript type definitions updated.
+Once type definitions are updated upstream, this project will be deprecated.
+
+So, do not use this project.
+
 # lazy-linq
 A full port of LINQ for javascript. It works fully in 'lazy' mode for the best performance.
 
